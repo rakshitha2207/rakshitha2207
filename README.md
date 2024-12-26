@@ -53,8 +53,6 @@
 </p>
 
 ---
-
-### 🌟 Aesthetic Touch:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ff79c6&size=22&duration=3000&center=true&vCenter=true&width=500&lines=Code.+Innovate.+Inspire.+;Passionate+about+AIML+%26+Tech!;Building+the+future+with+AI." />
 </p>
